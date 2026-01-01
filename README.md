@@ -10,14 +10,14 @@
 
 ## 📋 Table of Contents
 
-- [About This Repository](#about-this-repository)
-- [My Background](#my-background)
-- [Learning Path](#learning-path)
-- [Projects](#projects)
-- [Certifications & Training](#certifications--training)
-- [Home Lab Setup](#home-lab-setup)
-- [Documentation](#documentation)
-- [Resources](#resources)
+- [About This Repository](#-about-this-repository)
+- [My Background](#-my-background)
+- [Learning Path](#️-learning-path)
+- [Projects](#-projects)
+- [Certifications & Training](#-certifications--training)
+- [Home Lab Setup](#-home-lab-setup)
+- [Documentation](#-documentation)
+- [Resources](#-resources)
 
 ---
 
