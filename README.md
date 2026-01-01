@@ -86,7 +86,7 @@ This repository documents my journey into IT Security and System Administration.
 #### **Kali Purple USB (Portable Security Lab)**
 - **Status:** ✅ Complete
 - **Description:** Bootable Kali Purple installation on 128GB USB drive for portable pentesting
-- **Documentation:** [Kali-Purple/](./Kali-Purple/)
+- **Documentation:** Coming soon
 - **Key Learnings:** UEFI/CSM troubleshooting, USB installation, dual-boot setup
 
 #### **NodeWatch21 (Bitcoin Node Monitoring)**
@@ -191,17 +191,21 @@ This repository documents my journey into IT Security and System Administration.
 
 ### Detailed Guides
 
-- **[Kali Purple Installation](./Kali-Purple/installation.md)** - Complete walkthrough with troubleshooting
-- **[Home Lab Setup](./Home-Lab/setup.md)** - Hardware decisions and configuration
-- **[Azure Training Notes](./Azure-Training/)** - AZ-104 preparation notes
-- **[PowerShell Learning](./PowerShell/)** - Scripts and exercises
-- **[Networking Basics](./Networking/)** - Notes and labs
+*Coming soon - documentation will be added as projects are completed:*
+
+- **Kali Purple Installation** - Complete walkthrough with troubleshooting
+- **Home Lab Setup** - Hardware decisions and configuration
+- **Azure Training Notes** - AZ-104 preparation notes
+- **PowerShell Learning** - Scripts and exercises
+- **Networking Basics** - Notes and labs
 
 ### Quick References
 
-- **[Common Commands Cheatsheet](./Cheatsheets/commands.md)**
-- **[Troubleshooting Guide](./Troubleshooting/)**
-- **[Tool Configurations](./Configs/)**
+*Will be added as I build my knowledge base:*
+
+- Common Commands Cheatsheet
+- Troubleshooting Guide
+- Tool Configurations
 
 ---
 
@@ -256,7 +260,7 @@ I believe in:
 
 - **Twitter/X:** [@NodeWatch21](https://x.com/NodeWatch21) (Professional projects)
 - **GitHub:** [github.com/nodewatch21](https://github.com/nodewatch21)
-- **Lightning:** ⚡ nodewatch21@blink.sv (Value4Value)
+- **Lightning:** ⚡ `nodewatch21@blink.sv` (Value4Value)
 
 ---
 
