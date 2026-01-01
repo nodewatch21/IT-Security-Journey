@@ -1,6 +1,6 @@
 # Kali Purple USB Installation Guide
 
-> **Date:** December 31, 2024 - January 1, 2025  
+> **Date:** December 31, 2025 - January 1, 2026  
 > **Hardware:** 128GB SanDisk Extreme Go USB 3.2  
 > **Desktop Environment:** Xfce (for performance on USB)  
 > **Status:** ✅ Successfully completed
