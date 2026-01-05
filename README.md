@@ -37,7 +37,7 @@ This repository documents my journey into IT Security and System Administration.
 
 **Previous Experience:**
 - 20+ years in various industries (metalworking, security, automotive, facility management)
-- Self-taught IT enthusiast since 2023
+- Self-taught IT enthusiast since 2006
 - Strong interest in Bitcoin, cloud security, and system administration
 
 **Current Focus:**
